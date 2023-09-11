@@ -1,0 +1,17 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+.over{
+  overflow: auto;
+  max-height: 10rem;
+}
+.imagencita{
+  object-fit: none;
+  height: 250px
+}
+.tarjeta{
+  margin-bottom:10px;
+}
+.letraGris{
+  color: lightgrey;
+}
